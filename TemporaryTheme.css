@@ -2122,5 +2122,5 @@ background-image:url();
 ** Replace content with "display:none;" if you want to get rid of it
 */
 .cover-block::before {
-content: "With letters, I bind people's hearts together. Every precious one's… Every precious feeling… Yet, The feeling never grows in my heart…"
+content: "With letters, I bind people's hearts together. Every precious one's... Every precious feeling... Yet, The feeling never grows in my heart..."
 }

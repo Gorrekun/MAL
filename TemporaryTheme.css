@@ -779,16 +779,16 @@ background-image:url(http://i.imgur.com/IP3n4Ab.gif);
 /*dropped */
 
 .status-menu-container .status-menu .status-button.dropped {
-background-image:url(http://i.imgur.com/VNXW5lR.png);
+background-image:url(https://i.imgur.com/ekXPJWY.gif);
 left:95px !important;
 }
 
 .status-menu-container .status-menu .status-button.dropped:hover {
-background-image:url(http://i.imgur.com/7uWoqYr.gif);
+background-image:url(https://i.imgur.com/ekXPJWY.gif);
 }
 
 .status-menu-container .status-menu .status-button.dropped.on {
-background-image:url(http://i.imgur.com/7uWoqYr.gif);
+background-image:url(https://i.imgur.com/ekXPJWY.gif);
 }
 
 /* plan to watch */

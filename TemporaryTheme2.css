@@ -1,12 +1,5 @@
-/* A custom made Seiren layout basde on Shelter Style V3 by Takana no Hana
-** If you want to look for similar layouts, visit here https://myanimelist.net/forum/?topicid=1567864
-** Consider to drop in a comment on my css thread, I'd be appreciated a lot
-** Visit Shishio's club for more premade layouts 
-*/
- 
-/*Layout codes, please leave this line intact when copying the whole thing. Don't touch it. 
-*/
-/* General codes */
+
+        /* General codes */
 @import url(https://malcat-gen.appspot.com/series?preset=dataimagelinkbefore);
 @import url(https://fonts.googleapis.com/css?family=Rancho);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px|PT+Sans+Narrow);
@@ -18,7 +11,7 @@
     left: 0;
     right: 0;
     background-color: rgba(255,255,255,.9);
-    display: none;
+    display:;
     width: 860px;
     margin: 0 auto;
     padding: 25px 0px 30px;
@@ -32,7 +25,7 @@
     font-family: 'Helvetica neue', Helvetica, "lucida grande", tahoma, verdana, arial, sans-serif;
     z-index: 1101;
     border: none;
-background-image: url();
+background-image: url(https://images4.alphacoders.com/607/thumb-1920-607739.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 100%;  }
@@ -63,7 +56,7 @@ color:rgba(0,0,0,.6) !important;
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-    background-image: url(/img/pc/ownlist/icon_pulldown_triangle.png);
+    background-image: url();
     background-repeat: no-repeat;
     background-position: center right;
     background-size: 18px 8px;
@@ -81,7 +74,7 @@ color:rgba(0,0,0,.6) !important;
 }
  
 #advanced-options select:disabled {
-    background-image: url(/img/pc/ownlist/icon_pulldown_triangle_disable.png);
+    background-image: url();
     color: #9B9B9B;
 }
  
@@ -1948,7 +1941,7 @@ pointer-events:none;
 	text-shadow: 0 2px 8px #000000, 0 4px 8px #000000, 0 6px 8px #000000;
 }
 
-#copyright:after { display: block; content: 'Nier Layout designed by Takana no Hana'; }
+#copyright:after { display: block; content: 'Nier Layout designed by Takana no Hana Edited by TheDoggoneGirl07'; }
  
  
 /*Character renders*/
@@ -2110,27 +2103,27 @@ pointer-events: none;
 /*Change your backgrounds here*/
 /*CURRENTLY WATCHING*/
 body[data-query*='"status":1'] {
- background-image: url("http://i.imgur.com/OE0NAoT.jpg");
+ background-image: url("http://i.imgur.com/qOWpc6n.jpg");
 }
 /*COMPLETED*/
 body[data-query*='"status":2'] {
-   background-image: url("http://i.imgur.com/OE0NAoT.jpg");
+   background-image: url("http://i.imgur.com/qOWpc6n.jpg");
 }
 /*ON HOLD*/
 body[data-query*='"status":3'] {
-   background-image: url("http://i.imgur.com/OE0NAoT.jpg");
+   background-image: url("http://i.imgur.com/qOWpc6n.jpg");
 }
 /*DROPPED*/
 body[data-query*='"status":4'] {
-   background-image: url("http://i.imgur.com/OE0NAoT.jpg");
+   background-image: url("http://i.imgur.com/qOWpc6n.jpg");
 }
 /*PLANNED*/
 body[data-query*='"status":6'] {
-   background-image: url("http://i.imgur.com/OE0NAoT.jpg");
+   background-image: url("http://i.imgur.com/qOWpc6n.jpg");
 }
 /*ALL*/
 body[data-query*='"status":7'] {
-   background-image: url("http://i.imgur.com/OE0NAoT.jpg");
+   background-image: url("http://i.imgur.com/qOWpc6n.jpg");
 }
  
 /* picture at the bottom of your list 
@@ -2138,9 +2131,9 @@ body[data-query*='"status":7'] {
 ** if you don't want this section, type "display:none;" without the quotation marks below background-image line of code
 */
 .list-unit .loading-space {
-height:491px;
+height:563px;
 width:1000px;
-background-image:url(http://i.imgur.com/H9UBClT.png);
+background-image:url(http://i.imgur.com/cJQGGKw.png);
 background-color: transparent;
 background-size:contain;
 }
@@ -2149,13 +2142,13 @@ background-size:contain;
 **Your desired avatar
 **Note that the best resolution is 120px * 120px
 */
-.cover-block::after {background-image: url("");}
+.cover-block::after {background-image: url("http://i.imgur.com/cHaiCkC.gif");}
  
 /* Your name that displays next to the avatar
 ** Replace content with "display:none;" if you want to get rid of it
 */
 .cover-block::before {
-content: "";
+content: "Give me more meat buns!";
 }
  
 .list-unit {
@@ -2191,9 +2184,10 @@ content: "";
     margin-left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(http://i.imgur.com/Dn3CFL1.png), url(http://i.imgur.com/NPyQceb.png);
+    background-image: url(http://i.imgur.com/AxrhSFN.png), url(http://i.imgur.com/UPnKbtn.png);
     animation: falling 15s linear infinite;
     -webkit-animation: falling 15s linear infinite;
 	z-index: -3 !important;
 	pointer-events:none !important;
 }
+      

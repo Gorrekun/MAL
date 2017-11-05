@@ -732,72 +732,72 @@ top: 0; }
 /* status button */
 /* all_anime */
 .status-menu-container .status-menu .status-button.all_anime {
-background-image:url(http://i.imgur.com/J948M7X.png);	
+background-image:url(https://i.imgur.com/MO18y0O.png);	
 left:75px;
 }
 
 .status-menu-container .status-menu .status-button.all_anime:hover {
-background-image:url(http://i.imgur.com/EtJcBLp.gif);	
+background-image:url(https://i.imgur.com/TGq0gtM.gif);	
 }
 
 .status-menu-container .status-menu .status-button.all_anime.on {
-background-image:url(http://i.imgur.com/EtJcBLp.gif);	
+background-image:url(https://i.imgur.com/TGq0gtM.gif);	
 }
 
 /* watching */
 
 .status-menu-container .status-menu .status-button.watching {
-background-image:url(http://i.imgur.com/4lIjnfH.png);	
+background-image:url(https://i.imgur.com/MUTFH8k.png);	
 left:80px !important;
 }
 
 .status-menu-container .status-menu .status-button.watching:hover {
-background-image:url(http://i.imgur.com/FxP6Shw.gif);		
+background-image:url(https://i.imgur.com/i95AnR5.gif);		
 }
 
 .status-menu-container .status-menu .status-button.watching.on {
-background-image:url(http://i.imgur.com/FxP6Shw.gif);		
+background-image:url(hhttps://i.imgur.com/i95AnR5.gif);		
 }
 
 /* completed */
 
 .status-menu-container .status-menu .status-button.completed {
-background-image:url(http://i.imgur.com/ig9avfe.png);	
+background-image:url(https://i.imgur.com/tmRu5IR.png;	
 left:85px !important;
 }
 
 .status-menu-container .status-menu .status-button.completed:hover {
-background-image:url(http://i.imgur.com/lsSov86.gif);	
+background-image:url(https://i.imgur.com/4UrRjBW.gif);	
 }
 
 .status-menu-container .status-menu .status-button.completed.on {
-background-image:url(http://i.imgur.com/lsSov86.gif);	
+background-image:url(https://i.imgur.com/4UrRjBW.gif);	
 }
 
 /* on-hold */
 
 .status-menu-container .status-menu .status-button.onhold {
-background-image:url(http://i.imgur.com/8UTci5J.png);	
+background-image:url(https://i.imgur.com/oSX1F3s.png);	
 left:90px !important;
 }
 
 .status-menu-container .status-menu .status-button.onhold:hover {
-background-image:url(http://i.imgur.com/IP3n4Ab.gif);	
+background-image:url(https://i.imgur.com/JyHAHss.gif);	
 }
 
 .status-menu-container .status-menu .status-button.onhold.on {
-background-image:url(http://i.imgur.com/IP3n4Ab.gif);	
+background-image:url(https://i.imgur.com/JyHAHss.gif);	
 }
 
 /*dropped */
 
 .status-menu-container .status-menu .status-button.dropped {
-background-image:url(http://i.imgur.com/VNXW5lR.png);
+background-image:url(https://i.imgur.com/sRhGlP7.png);
 left:95px !important;
 }
 
 .status-menu-container .status-menu .status-button.dropped:hover {
-background-image:url(http://i.imgur.com/7uWoqYr.gif);
+background-image:url(https://i.imgur.com/s8qvLgA.gif);
 }
 
 .status-menu-container .status-menu .status-button.dropped.on {
@@ -807,16 +807,16 @@ background-image:url(http://i.imgur.com/7uWoqYr.gif);
 /* plan to watch */
 
 .status-menu-container .status-menu .status-button.plantowatch {
-background-image:url(http://i.imgur.com/fYvwBVQ.png);
+background-image:url(https://i.imgur.com/1xjR03T.png);
 left:100px !important;
 }
 
 .status-menu-container .status-menu .status-button.plantowatch:hover {
-background-image:url(http://i.imgur.com/cqaTtlb.gif);
+background-image:url(https://i.imgur.com/sEhZq1i.gif);
 }
 
 .status-menu-container .status-menu .status-button.plantowatch.on {
-background-image:url(http://i.imgur.com/cqaTtlb.gif);
+background-image:url(https://i.imgur.com/sEhZq1i.gif);
 }
 
 
@@ -2140,7 +2140,7 @@ body[data-query*='"status":7'] {
   background-position: 50% 50%;
   background-repeat: no-repeat !important;
   background-size:cover;
-   background-image:url(http://i.imgur.com/jnU4F6r.jpg);
+   background-image:url(https://i.imgur.com/lM4w1zR.jpg);
 }
 
 body {
@@ -2161,7 +2161,7 @@ background-image:url();
 **Your desired avatar
 **Note that the best resolution is 120px * 120px
 */
-.cover-block::after {background-image: url("http://i.imgur.com/SG9ilbZ.gif");}
+.cover-block::after {background-image: url("https://i.imgur.com/JX4O6Hi.gif");}
 
 /* Your name that displays next to the avatar
 ** Replace content with "display:none;" if you want to get rid of it

@@ -712,92 +712,79 @@ top: 0; }
 	background-position:50% 50%;
 	background-repeat:no-repeat;
 	border-radius:5px !important;
-	background-color:#fff;
 	border: #fff 1px solid;
-	-moz-transition-property: all;
-    -o-transition-property: all;
-    -webkit-transition-property: all;
-    transition-property: all;
-    -moz-transition-duration: 0.3s;
-    -o-transition-duration: 0.3s;
-    -webkit-transition-duration: 0.3s;
-    transition-duration: 0.3s;
-    -moz-transition-timing-function: ease-in-out;
-    -o-transition-timing-function: ease-in-out;
-    -webkit-transition-timing-function: ease-in-out;
-    transition-timing-function: ease-in-out;
 	
 }
 
 /* status button */
 /* all_anime */
 .status-menu-container .status-menu .status-button.all_anime {
-background-image:url(https://i.imgur.com/MO18y0O.png);	
+background-image:url(http://i.imgur.com/J948M7X.png);	
 left:75px;
 }
 
 .status-menu-container .status-menu .status-button.all_anime:hover {
-background-image:url(https://i.imgur.com/TGq0gtM.gif);	
+background-image:url(http://i.imgur.com/EtJcBLp.gif);	
 }
 
 .status-menu-container .status-menu .status-button.all_anime.on {
-background-image:url(https://i.imgur.com/TGq0gtM.gif);	
+background-image:url(http://i.imgur.com/EtJcBLp.gif);	
 }
 
 /* watching */
 
 .status-menu-container .status-menu .status-button.watching {
-background-image:url(https://i.imgur.com/MUTFH8k.png);	
+background-image:url(http://i.imgur.com/4lIjnfH.png);	
 left:80px !important;
 }
 
 .status-menu-container .status-menu .status-button.watching:hover {
-background-image:url(https://i.imgur.com/i95AnR5.gif);		
+background-image:url(http://i.imgur.com/FxP6Shw.gif);		
 }
 
 .status-menu-container .status-menu .status-button.watching.on {
-background-image:url(hhttps://i.imgur.com/i95AnR5.gif);		
+background-image:url(http://i.imgur.com/FxP6Shw.gif);		
 }
 
 /* completed */
 
 .status-menu-container .status-menu .status-button.completed {
-background-image:url(https://i.imgur.com/tmRu5IR.png);	
+background-image:url(http://i.imgur.com/ig9avfe.png);	
 left:85px !important;
 }
 
 .status-menu-container .status-menu .status-button.completed:hover {
-background-image:url(https://i.imgur.com/4UrRjBW.gif);	
+background-image:url(http://i.imgur.com/lsSov86.gif);	
 }
 
 .status-menu-container .status-menu .status-button.completed.on {
-background-image:url(https://i.imgur.com/4UrRjBW.gif);	
+background-image:url(http://i.imgur.com/lsSov86.gif);	
 }
 
 /* on-hold */
 
 .status-menu-container .status-menu .status-button.onhold {
-background-image:url(https://i.imgur.com/oSX1F3s.png);	
+background-image:url(http://i.imgur.com/8UTci5J.png);	
 left:90px !important;
 }
 
 .status-menu-container .status-menu .status-button.onhold:hover {
-background-image:url(https://i.imgur.com/JyHAHss.gif);	
+background-image:url(http://i.imgur.com/IP3n4Ab.gif);	
 }
 
 .status-menu-container .status-menu .status-button.onhold.on {
-background-image:url(https://i.imgur.com/JyHAHss.gif);	
+background-image:url(http://i.imgur.com/IP3n4Ab.gif);	
 }
 
 /*dropped */
 
 .status-menu-container .status-menu .status-button.dropped {
-background-image:url(https://i.imgur.com/sRhGlP7.png);
+background-image:url(http://i.imgur.com/VNXW5lR.png);
 left:95px !important;
 }
 
 .status-menu-container .status-menu .status-button.dropped:hover {
-background-image:url(https://i.imgur.com/s8qvLgA.gif);
+background-image:url(http://i.imgur.com/7uWoqYr.gif);
 }
 
 .status-menu-container .status-menu .status-button.dropped.on {
@@ -807,16 +794,16 @@ background-image:url(http://i.imgur.com/7uWoqYr.gif);
 /* plan to watch */
 
 .status-menu-container .status-menu .status-button.plantowatch {
-background-image:url(https://i.imgur.com/1xjR03T.png);
+background-image:url(http://i.imgur.com/fYvwBVQ.png);
 left:100px !important;
 }
 
 .status-menu-container .status-menu .status-button.plantowatch:hover {
-background-image:url(https://i.imgur.com/sEhZq1i.gif);
+background-image:url(http://i.imgur.com/cqaTtlb.gif);
 }
 
 .status-menu-container .status-menu .status-button.plantowatch.on {
-background-image:url(https://i.imgur.com/sEhZq1i.gif);
+background-image:url(http://i.imgur.com/cqaTtlb.gif);
 }
 
 
@@ -828,13 +815,12 @@ background-image:url(https://i.imgur.com/sEhZq1i.gif);
     font-weight: bold;
 	text-shadow: 0 0 2px #000, 0 0 1px #000, 1px 1px 7px #000, 0 0 0 #000;
 	box-shadow: 0 0 2px #000, 0 0 1px #000, 1px 1px 4px #000, 0 0 0 #000;
-	background-color:#fff;
 }
 
 .status-menu-container .status-menu .status-button:hover {
 	box-shadow: 0 0 2px #000, 0 0 1px #000, 1px 1px 4px #000, 0 0 0 #000;
 	text-shadow: 0 0 2px #000, 0 0 1px #000, 1px 1px 7px #000, 0 0 0 #000;
-    background-color:#fff;
+    background-color: transparent;
 	color: #fff;
     -moz-transition-property: all;
     -o-transition-property: all;
@@ -971,48 +957,36 @@ background-color: #9B9B9B;}
 /**
  * List Container - List Status Title (with Stats)
  */
-
- 
-.list-unit.all_anime .list-status-title, .list-unit.completed .list-status-title, .list-unit.dropped .list-status-title {
+.list-unit .list-status-title {
     position: relative;
     display: table-cell;
-    width: 1010px !important;
-   height:158px !important;
+    background-color: transparent;
+    width: 1010px;
+   height:0;
+   /*background-color:rgba(127,127,127,1);*/
    background-color:rgba(0,0,0,.4);
-   background-image:url(http://i.imgur.com/GThwznW.png);   background-size:contain;
-    background-repeat: no-repeat;
-}
-
-.list-unit.watching .list-status-title, .list-unit.onhold .list-status-title, .list-unit.plantowatch .list-status-title {
-    position: relative;
-    display: table-cell;
-    width: 1010px !important;
-   height:158px !important;
-   background-color:rgba(0,0,0,.4);
-   background-image:url(http://i.imgur.com/wpIPlM2.png);   background-size:contain;
-   background-repeat: no-repeat;
+   background-image:url(http://i.imgur.com/GThwznW.png);
+   background-size:cover;
 }
 
 .list-unit .list-status-title .text {
     display: block;
-	position:absolute;
-    width: 300px;
+    width: 1010px;
     height: 38px !important;
 	 font-family: 'Kaushan Script', cursive;
     font-size: 22px;
     color: #fff;
-    text-align: left;
+    text-align: center;
     vertical-align: middle;
+text-align: center;
 font-weight: 500;
 letter-spacing: 0.5px;
 border:none;
 text-shadow: 0 0 2px #000, 0 0 1px #000, 1px 1px 7px #000, 0 0 0 #FFF !important;
  font-style: bold;
+ background-color: transparent;
 margin-top: 120px !important;
-margin-left:20px !important;
 }
-
-
 
 
 
@@ -1056,16 +1030,15 @@ z-index: 1 !important;
     line-height: 40px;
 	width:180px;
     right: -35px;
-	margin-top:0px;
+	margin-top: -160px;
 	z-index: 2;
 }
 
 .list-unit .list-status-title .stats a {
 
-    color: #fff;
+    color: #9B9B9B;
 	padding:8px;
 	margin:0 !important;
-	text-shadow: 0 0 2px #9B9B9B, 0 0 1px #9B9B9B, 1px 1px 7px #9B9B9B, 0 0 0 #9B9B9B;
 }
 
 
@@ -1128,11 +1101,10 @@ z-index:200 !important;
     text-align: center;
     vertical-align: middle;
 	z-index:60 !important;
-	opacity: 0;
+	opacity:0;
 }
 
-.list-table .list-table-header:hover .header-title {
-opacity: 1;
+.list-table .list-table-header:hover .header-title {opacity:1;
 -moz-transition-property: all;
     -o-transition-property: all;
     -webkit-transition-property: all;
@@ -1297,9 +1269,7 @@ opacity: 1;
 
 .list-table .list-table-data:hover {
   /*box-shadow: 0 0 2px #000, 0 0 1px #000, 1px 1px 7px #000, 0 0 0 #000 !important;*/
--moz-transition: .4s ease;
--webkit-transition: .4s ease;
--o-transition: .4s ease;
+  transition: .2s linear;
   background-color:rgba(0,0,0,.3);
 }
 
@@ -1462,29 +1432,14 @@ color: #fff;
 .list-table .list-table-data .data.score {
 width: 21px !important;
 height: 21px !important;
-
+background-image: url(http://i.imgur.com/udzEw6G.png);
 background-repeat: no-repeat;
 background-size:contain;
 background-position: 50% 50%;
 }
 
-.list-table > tbody:nth-of-type(2n+1) .data.score {
-	background-image: url(http://i.imgur.com/udzEw6G.png);
-}
-
-.list-table  > tbody:nth-of-type(2n+1):hover .data.score {
-	background-image: url(http://i.imgur.com/EQcGOeO.png);
-}
-
-.list-table > tbody:nth-of-type(2n) .data.score {
-	background-image: url(http://i.imgur.com/XbXA3Q5.png);
-}
-
-.list-table  > tbody:nth-of-type(2n):hover .data.score {
-	background-image: url(http://i.imgur.com/6JtEyjR.png);
-}
-
 .list-table .list-table-data:hover .data.score {
+	background-image: url(http://i.imgur.com/EQcGOeO.png);
 	text-shadow: 0 0 2px #000, 0 0 1px #000, 1px 1px 4px #000, 0 0 0 #000;
 }
 
@@ -1968,7 +1923,7 @@ display:block;
 }
 
 #copyright::after {
-	content: "Layout designed by Takana no Hana | Edited by Gorre"
+	content: "ShelterStyleV3 - Layout designed by Takana no Hana"
 }
 
 
@@ -2140,7 +2095,7 @@ body[data-query*='"status":7'] {
   background-position: 50% 50%;
   background-repeat: no-repeat !important;
   background-size:cover;
-   background-image:url(https://i.imgur.com/lM4w1zR.jpg);
+   background-image:url(http://i.imgur.com/01ctFwN.png);
 }
 
 body {
@@ -2161,7 +2116,7 @@ background-image:url();
 **Your desired avatar
 **Note that the best resolution is 120px * 120px
 */
-.cover-block::after {background-image: url("https://i.imgur.com/JX4O6Hi.gif");}
+.cover-block::after {background-image: url("http://i.imgur.com/SG9ilbZ.gif");}
 
 /* Your name that displays next to the avatar
 ** Replace content with "display:none;" if you want to get rid of it

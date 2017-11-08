@@ -977,20 +977,20 @@ background-color: #9B9B9B;}
 .list-unit.all_anime .list-status-title, .list-unit.completed .list-status-title, .list-unit.dropped .list-status-title {
     position: relative;
     display: table-cell;
-    width: 1010px !important;
+    width: 1040px !important;
    height:158px !important;
    background-color:rgba(0,0,0,.4);
-   background-image:url(https://i.imgur.com/M1VAj9O.gif);   background-size:contain;
+   background-image:url(https://i.imgur.com/XniJyh1.gif;   background-size:contain;
     background-repeat: no-repeat;
 }
 
 .list-unit.watching .list-status-title, .list-unit.onhold .list-status-title, .list-unit.plantowatch .list-status-title {
     position: relative;
     display: table-cell;
-    width: 1010px !important;
+    width: 1040px !important;
    height:158px !important;
    background-color:rgba(0,0,0,.4);
-   background-image:url(https://i.imgur.com/M1VAj9O.gif);   background-size:contain;
+   background-image:url(https://i.imgur.com/XniJyh1.gif);   background-size:contain;
    background-repeat: no-repeat;
 }
 

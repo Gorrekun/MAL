@@ -1,4 +1,3 @@
-
 /* General codes */
 @import url(https://malcat-gen.appspot.com/series?preset=dataimagelinkbefore);
 @import url(https://fonts.googleapis.com/css?family=Orbitron);
@@ -671,8 +670,7 @@ height: 15px;}
     width: 1010px;
     height: 40px;
     background-color: transparent;
-	background-image:url(http://i.
-		.com/FaH3R9g.png);
+	background-image:url(http://i.imgur.com/FaH3R9g.png);
 	background-repeat:repeat;
     border-bottom: none;
     z-index: 1;
@@ -978,7 +976,7 @@ background-color: #9B9B9B;}
 .list-unit.all_anime .list-status-title, .list-unit.completed .list-status-title, .list-unit.dropped .list-status-title {
     position: relative;
     display: table-cell;
-    width: 1040px !important;
+    width: 1010px !important;
    height:158px !important;
    background-color:rgba(0,0,0,.4);
    background-image:url(https://i.imgur.com/XniJyh1.gif);   background-size:contain;
@@ -988,8 +986,8 @@ background-color: #9B9B9B;}
 .list-unit.watching .list-status-title, .list-unit.onhold .list-status-title, .list-unit.plantowatch .list-status-title {
     position: relative;
     display: table-cell;
-    width: 1040px !important;
-   height:159px !important;
+    width: 1010px !important;
+   height:158px !important;
    background-color:rgba(0,0,0,.4);
    background-image:url(https://i.imgur.com/XniJyh1.gif);   background-size:contain;
    background-repeat: no-repeat;

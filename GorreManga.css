@@ -731,31 +731,31 @@ top: 0; }
 
 /* status button */
 /* all_anime */
-.status-menu-container .status-menu .status-button.all_manga {
+.status-menu-container .status-menu .status-button.all_anime {
 background-image:url(https://i.imgur.com/2eZNSdg.png);	
 left:75px;
 }
 
-.status-menu-container .status-menu .status-button.all_manga:hover {
+.status-menu-container .status-menu .status-button.all_anime:hover {
 background-image:url(https://i.imgur.com/i4NP2eh.gif);	
 }
 
-.status-menu-container .status-menu .status-button.all_manga.on {
+.status-menu-container .status-menu .status-button.all_anime.on {
 background-image:url(https://i.imgur.com/i4NP2eh.gif);	
 }
 
 /* watching */
 
-.status-menu-container .status-menu .status-button.reading {
+.status-menu-container .status-menu .status-button.watching {
 background-image:url(https://i.imgur.com/q60HXJY.png);	
 left:80px !important;
 }
 
-.status-menu-container .status-menu .status-button.reading:hover {
+.status-menu-container .status-menu .status-button.watching:hover {
 background-image:url(https://i.imgur.com/jz9poaR.gif);		
 }
 
-.status-menu-container .status-menu .status-button.reading.on {
+.status-menu-container .status-menu .status-button.watching.on {
 background-image:url(https://i.imgur.com/jz9poaR.gif);		
 }
 
@@ -806,16 +806,16 @@ background-image:url(https://i.imgur.com/PtCa4KA.gif);
 
 /* plan to watch */
 
-.status-menu-container .status-menu .status-button.plantoread {
+.status-menu-container .status-menu .status-button.plantowatch {
 background-image:url(https://i.imgur.com/2XJwYq7.png);
 left:100px !important;
 }
 
-.status-menu-container .status-menu .status-button.plantoread:hover {
+.status-menu-container .status-menu .status-button.plantowatch:hover {
 background-image:url(https://i.imgur.com/njZBjLi.gif);
 }
 
-.status-menu-container .status-menu .status-button.plantoread.on {
+.status-menu-container .status-menu .status-button.plantowatch.on {
 background-image:url(https://i.imgur.com/njZBjLi.gif);
 }
 
@@ -983,7 +983,7 @@ background-color: #9B9B9B;}
     background-repeat: no-repeat;
 }
 
-.list-unit.reading .list-status-title, .list-unit.onhold .list-status-title, .list-unit.plantoread .list-status-title {
+.list-unit.watching .list-status-title, .list-unit.onhold .list-status-title, .list-unit.plantowatch .list-status-title {
     position: relative;
     display: table-cell;
     width: 1010px !important;
@@ -1444,7 +1444,7 @@ color: #fff;
   color: #fff !important;
 }
   
-.list-table .list-table-data .data.title .rereading, .list-table .list-table-data .data.title .rereading, .list-table .list-table-data .data.title .content-status {
+.list-table .list-table-data .data.title .rewatching, .list-table .list-table-data .data.title .rereading, .list-table .list-table-data .data.title .content-status {
     text-shadow: 0 0 2px #1a1aff, 0 0 1px #1a1aff, 1px 1px 7px #1a1aff, 0 0 0 #1a1aff !important;
 	color: #fff !important;
     font-size: 0.8em !important;
@@ -1690,12 +1690,12 @@ transition: .3s ease-out;}
     font-size:1.5em;
 }
 
-.list-table .list-table-data .data.status.reading, .list-table .list-table-data .data.status.read {
+.list-table .list-table-data .data.status.reading, .list-table .list-table-data .data.status.watching {
     /*background-color: #2db039 */
 	background-color:transparent;
 }
 
-.list-table .list-table-data .data.status.plantoread, .list-table .list-table-data .data.status.plantoread {
+.list-table .list-table-data .data.status.plantoread, .list-table .list-table-data .data.status.plantowatch {
      /*background-color: #c3c3c3 */
 	background-color:transparent;
 }
@@ -1753,7 +1753,7 @@ font-size: 1.5em;
 font-family: 'FontAwesome' !important;
 }
 
-.list-table .list-table-data:hover .data.status.reading:before, .list-table .list-table-data:hover .data.status.reading:before
+.list-table .list-table-data:hover .data.status.watching:before, .list-table .list-table-data:hover .data.status.reading:before
 {
 	/*background-color: #2db039 !important;*/
 color:#fff;
@@ -1761,7 +1761,7 @@ content: "\f152";
 font-size: 1.5em;
 font-family: 'FontAwesome' !important;}
 
-.list-table .list-table-data:hover .data.status.plantoread:before, .list-table .list-table-data:hover .data.status.plantoread:before
+.list-table .list-table-data:hover .data.status.plantowatch:before, .list-table .list-table-data:hover .data.status.plantoread:before
 {/*background-color: #c3c3c3 !important;*/
 color:#fff;
 content: "\f073";

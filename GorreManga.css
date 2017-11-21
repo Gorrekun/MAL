@@ -731,16 +731,16 @@ top: 0; }
 
 /* status button */
 /* all_anime */
-.status-menu-container .status-menu .status-button.all_anime {
+.status-menu-container .status-menu .status-button.allmanga {
 background-image:url(https://i.imgur.com/2eZNSdg.png);	
 left:75px;
 }
 
-.status-menu-container .status-menu .status-button.all_anime:hover {
+.status-menu-container .status-menu .status-button.allmanga:hover {
 background-image:url(https://i.imgur.com/i4NP2eh.gif);	
 }
 
-.status-menu-container .status-menu .status-button.all_anime.on {
+.status-menu-container .status-menu .status-button.allmanga.on {
 background-image:url(https://i.imgur.com/i4NP2eh.gif);	
 }
 

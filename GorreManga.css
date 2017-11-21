@@ -748,7 +748,7 @@ background-image:url(https://i.imgur.com/i4NP2eh.gif);
 
 .status-menu-container .status-menu .status-button.reading {
 background-image:url(https://i.imgur.com/q60HXJY.png);	
-left:20px !important;
+left:80px !important;
 }
 
 .status-menu-container .status-menu .status-button.reading:hover {
@@ -808,7 +808,7 @@ background-image:url(https://i.imgur.com/PtCa4KA.gif);
 
 .status-menu-container .status-menu .status-button.plantoread {
 background-image:url(https://i.imgur.com/2XJwYq7.png);
-left:60px !important;
+left:100px !important;
 }
 
 .status-menu-container .status-menu .status-button.plantoread:hover {

@@ -747,16 +747,16 @@ background-image:url(https://i.imgur.com/i4NP2eh.gif);
 /* watching */
 
 .status-menu-container .status-menu .status-button.reading {
-background-image:url(https://i.imgur.com/q60HXJY.png);	
+background-image:url(https://i.imgur.com/);	
 left:20px !important;
 }
 
 .status-menu-container .status-menu .status-button.reading:hover {
-background-image:url(https://i.imgur.com/jz9poaR.gif);		
+background-image:url(https://i.imgur.com/);		
 }
 
 .status-menu-container .status-menu .status-button.reading.on {
-background-image:url(https://i.imgur.com/jz9poaR.gif);		
+background-image:url(https://i.imgur.com/);		
 }
 
 /* completed */

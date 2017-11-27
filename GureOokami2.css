@@ -792,31 +792,31 @@ background-image:url(https://i.imgur.com/xzDvjHi.gif);
 /*dropped */
 
 .status-menu-container .status-menu .status-button.dropped {
-background-image:url(https://i.imgur.com/VEAZVlD.png);
+background-image:url(https://i.imgur.com/Vfk86NW.png);
 left:95px !important;
 }
 
 .status-menu-container .status-menu .status-button.dropped:hover {
-background-image:url(https://i.imgur.com/0Mu7nR0.gif);
+background-image:url(https://i.imgur.com/SY2xT5w.gif);
 }
 
 .status-menu-container .status-menu .status-button.dropped.on {
-background-image:url(https://i.imgur.com/0Mu7nR0.gif);
+background-image:url(https://i.imgur.com/SY2xT5w.gif);
 }
 
 /* plan to watch */
 
 .status-menu-container .status-menu .status-button.plantoread {
-background-image:url(https://i.imgur.com/GhADc9s.png);
+background-image:url(https://i.imgur.com/AdPVGAM.png);
 left:100px !important;
 }
 
 .status-menu-container .status-menu .status-button.plantoread:hover {
-background-image:url(https://i.imgur.com/7C3WEXI.gif);
+background-image:url(https://i.imgur.com/QXXXdFv.gif);
 }
 
 .status-menu-container .status-menu .status-button.plantoread.on {
-background-image:url(https://i.imgur.com/7C3WEXI.gif);
+background-image:url(https://i.imgur.com/QXXXdFv.gif);
 }
 
 

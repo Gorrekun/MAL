@@ -807,16 +807,16 @@ background-image:url(https://i.imgur.com/0Mu7nR0.gif);
 /* plan to watch */
 
 .status-menu-container .status-menu .status-button.plantoread {
-background-image:url(https://i.imgur.com/jp3QF1c.png);
+background-image:url(https://i.imgur.com/GhADc9s.png);
 left:100px !important;
 }
 
 .status-menu-container .status-menu .status-button.plantoread:hover {
-background-image:url(https://i.imgur.com/hIb7sSQ.gif);
+background-image:url(https://i.imgur.com/7C3WEXI.gif);
 }
 
 .status-menu-container .status-menu .status-button.plantoread.on {
-background-image:url(https://i.imgur.com/hIb7sSQ.gif);
+background-image:url(https://i.imgur.com/7C3WEXI.gif);
 }
 
 

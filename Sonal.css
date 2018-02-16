@@ -807,16 +807,16 @@ background-image:url(https://i.imgur.com/P53YqGz.gif);
 /* plan to watch */
 
 .status-menu-container .status-menu .status-button.plantowatch {
-background-image:url(https://i.imgur.com/2XJwYq7.png);
+background-image:url(https://i.imgur.com/mZPaY4d.jpg);
 left:100px !important;
 }
 
 .status-menu-container .status-menu .status-button.plantowatch:hover {
-background-image:url(https://i.imgur.com/njZBjLi.gif);
+background-image:url(https://i.imgur.com/mwfkHNZ.gif);
 }
 
 .status-menu-container .status-menu .status-button.plantowatch.on {
-background-image:url(https://i.imgur.com/njZBjLi.gif);
+background-image:url(https://i.imgur.com/mwfkHNZ.gif);
 }
 
 
@@ -2167,5 +2167,5 @@ background-image:url();
 ** Replace content with "display:none;" if you want to get rid of it
 */
 .cover-block::before {
-content: ""Are you sexist?" - Xiu Ye, Quan Zhi Gao Shou"
+content: "'Are you sexist?' - Xiu Ye, Quan Zhi Gao Shou"
 }

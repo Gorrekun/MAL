@@ -732,16 +732,16 @@ top: 0; }
 /* status button */
 /* all_anime */
 .status-menu-container .status-menu .status-button.all_anime {
-background-image:url(https://i.imgur.com/2eZNSdg.png);	
+background-image:url(https://i.imgur.com/fixlWcS.jpg);	
 left:75px;
 }
 
 .status-menu-container .status-menu .status-button.all_anime:hover {
-background-image:url(https://i.imgur.com/i4NP2eh.gif);	
+background-image:url(https://i.imgur.com/0non6AA.gif);	
 }
 
 .status-menu-container .status-menu .status-button.all_anime.on {
-background-image:url(https://i.imgur.com/i4NP2eh.gif);	
+background-image:url(https://i.imgur.com/0non6AA.gif);	
 }
 
 /* watching */
@@ -2161,11 +2161,11 @@ background-image:url();
 **Your desired avatar
 **Note that the best resolution is 120px * 120px
 */
-.cover-block::after {background-image: url("https://i.imgur.com/lxrJOrX.gif");}
+.cover-block::after {background-image: url("https://i.imgur.com/Uap49eb.gif");}
 
 /* Your name that displays next to the avatar
 ** Replace content with "display:none;" if you want to get rid of it
 */
 .cover-block::before {
-content: "'Are you sexist?' - Xiu Ye, Quan Zhi Gao Shou"
+content: "'Are you sexist ?' - Xiu Ye, Quan Zhi Gao Shou"
 }

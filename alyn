@@ -732,91 +732,91 @@ top: 0; }
 /* status button */
 /* all_anime */
 .status-menu-container .status-menu .status-button.all_anime {
-background-image:url(https://i.imgur.com/2eZNSdg.png);	
+background-image:url(https://i.imgur.com/M3pSYBg.jpg);	
 left:75px;
 }
 
 .status-menu-container .status-menu .status-button.all_anime:hover {
-background-image:url(https://i.imgur.com/i4NP2eh.gif);	
+background-image:url(https://i.imgur.com/jNfw5Yw.gif);	
 }
 
 .status-menu-container .status-menu .status-button.all_anime.on {
-background-image:url(https://i.imgur.com/i4NP2eh.gif);	
+background-image:url(https://i.imgur.com/jNfw5Yw.gif);	
 }
 
 /* watching */
 
 .status-menu-container .status-menu .status-button.watching {
-background-image:url(https://i.imgur.com/q60HXJY.png);	
+background-image:url(https://i.imgur.com/IJIDNRC.jpg);	
 left:80px !important;
 }
 
 .status-menu-container .status-menu .status-button.watching:hover {
-background-image:url(https://i.imgur.com/jz9poaR.gif);		
+background-image:url(https://i.imgur.com/9V0Nw2J.gif);		
 }
 
 .status-menu-container .status-menu .status-button.watching.on {
-background-image:url(https://i.imgur.com/jz9poaR.gif);		
+background-image:url(https://i.imgur.com/9V0Nw2J.gif);		
 }
 
 /* completed */
 
 .status-menu-container .status-menu .status-button.completed {
-background-image:url(https://i.imgur.com/pJcG6g9.png);	
+background-image:url(https://i.imgur.com/F68j3rM.jpg);	
 left:85px !important;
 }
 
 .status-menu-container .status-menu .status-button.completed:hover {
-background-image:url(https://i.imgur.com/BFd5hhL.gif);	
+background-image:url(https://i.imgur.com/vrVjF3z.gif);	
 }
 
 .status-menu-container .status-menu .status-button.completed.on {
-background-image:url(https://i.imgur.com/BFd5hhL.gif);	
+background-image:url(https://i.imgur.com/vrVjF3z.gif);	
 }
 
 /* on-hold */
 
 .status-menu-container .status-menu .status-button.onhold {
-background-image:url(https://i.imgur.com/gBlixAS.png);	
+background-image:url(https://i.imgur.com/LsZtNtO.jpg);	
 left:90px !important;
 }
 
 .status-menu-container .status-menu .status-button.onhold:hover {
-background-image:url(https://i.imgur.com/K5yHdD9.gif);	
+background-image:url(https://i.imgur.com/ai7UKls.gif);	
 }
 
 .status-menu-container .status-menu .status-button.onhold.on {
-background-image:url(https://i.imgur.com/K5yHdD9.gif);	
+background-image:url(https://i.imgur.com/ai7UKls.gif);	
 }
 
 /*dropped */
 
 .status-menu-container .status-menu .status-button.dropped {
-background-image:url(https://i.imgur.com/hZc2j8W.png);
+background-image:url(https://i.imgur.com/22ahQD8.jpg);
 left:95px !important;
 }
 
 .status-menu-container .status-menu .status-button.dropped:hover {
-background-image:url(https://i.imgur.com/PtCa4KA.gif);
+background-image:url(https://i.imgur.com/3vGkQ10.gif);
 }
 
 .status-menu-container .status-menu .status-button.dropped.on {
-background-image:url(https://i.imgur.com/PtCa4KA.gif);
+background-image:url(https://i.imgur.com/3vGkQ10.gif);
 }
 
 /* plan to watch */
 
 .status-menu-container .status-menu .status-button.plantowatch {
-background-image:url(https://i.imgur.com/2XJwYq7.png);
+background-image:url(https://i.imgur.com/ySZskHr.jpg);
 left:100px !important;
 }
 
 .status-menu-container .status-menu .status-button.plantowatch:hover {
-background-image:url(https://i.imgur.com/njZBjLi.gif);
+background-image:url(https://i.imgur.com/D8X1SwO.gif);
 }
 
 .status-menu-container .status-menu .status-button.plantowatch.on {
-background-image:url(https://i.imgur.com/njZBjLi.gif);
+background-image:url(https://i.imgur.com/D8X1SwO.gif);
 }
 
 
@@ -2161,7 +2161,7 @@ background-image:url();
 **Your desired avatar
 **Note that the best resolution is 120px * 120px
 */
-.cover-block::after {background-image: url("https://i.imgur.com/lxrJOrX.gif");}
+.cover-block::after {background-image: url("https://i.imgur.com/NGLvFNf.gif");}
 
 /* Your name that displays next to the avatar
 ** Replace content with "display:none;" if you want to get rid of it

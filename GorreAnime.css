@@ -1477,11 +1477,11 @@ background-position: 50% 50%;
 }
 
 .list-table > tbody:nth-of-type(2n) .data.score {
-	background-image: url(http://i.imgur.com/XbXA3Q5.png);
+	background-image: url(http://i.imgur.com/udzEw6G.png);
 }
 
 .list-table  > tbody:nth-of-type(2n):hover .data.score {
-	background-image: url(http://i.imgur.com/6JtEyjR.png);
+	background-image: url(http://i.imgur.com/EQcGOeO.png);
 }
 
 .list-table .list-table-data:hover .data.score {
